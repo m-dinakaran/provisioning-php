@@ -1,4 +1,4 @@
-# Cloud Formation Template to provision EC2 Instance with HTTPD & PHP: 
+# AWS Cloud Formation Template to provision EC2 Instance with HTTPD & PHP: 
 
 1) Use existing Key pair while running Cloud Formation Template. Else, please follow the below steps to create key pair using the Amazon EC2 console/ AWS CLI.  
 
